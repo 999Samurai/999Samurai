@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -20,7 +19,7 @@
 </p>
 
 <a href="https://github.com/999Samurai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=999Samurai&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=1C9EE3&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=999Samurai&hide=html&max=3&title_color=ffffff&text_color=c9cacc&icon_color=1C9EE3&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/999Samurai">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=999Samurai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=1C9EE3&bg_color=1d1f21" alt="999Samurai's GitHub Stats" />
