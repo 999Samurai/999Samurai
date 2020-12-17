@@ -1,6 +1,6 @@
 # Hey there!
 
-<a href="https://www.linkedin.com/in/arthur-brites-21ab54172/">
+<a href="https://www.linkedin.com/in/diogo-fernandes-0649a0168/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
