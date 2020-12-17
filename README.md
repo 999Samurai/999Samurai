@@ -2,6 +2,8 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+Discord: 999Samurai#0001
+
 # Hey there!
 
 <p>Welcome to my page! </br> I'm Diogo "Samurai" Fernandes, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Algarve, Portugal</b>. </p>
@@ -28,7 +30,3 @@
 <a href="https://github.com/999Samurai">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=999Samurai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=1C9EE3&bg_color=1d1f21" alt="999Samurai's GitHub Stats" />
 </a>
-
-# Contact and Social media
-
-- Discord: 999Samurai#0001
