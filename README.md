@@ -2,8 +2,6 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-Discord: 999Samurai#0001
-
 # Hey there!
 
 <p>Welcome to my page! </br> I'm Diogo "Samurai" Fernandes, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/> <b>Algarve, Portugal</b>. </p>
