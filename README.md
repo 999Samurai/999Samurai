@@ -1,9 +1,6 @@
 <a>
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a>
-  <img src="https://img.shields.io/badge/999Samurai#0001-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</a>
 
 Discord: 999Samurai#0001
 
