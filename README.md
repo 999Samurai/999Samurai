@@ -20,6 +20,7 @@ class samurai(readme):
 	self.username = "999Samurai"
         self.location = "Portugal"
         self.age = "18, Born 31 July 2003"
+        self.languages = "Python, Javascript (Node.js, Angular && Vue), PHP"
         self.occupation = "Full-Stack developer && Software engineering student"
 ```
 
