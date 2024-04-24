@@ -18,7 +18,7 @@ class samurai(readme):
         self.full_name = "Diogo Fernandes"
 	self.username = "999Samurai"
         self.location = "Portugal"
-        self.age = "19, Born 31 July 2003"
+        self.age = "20, Born 31 July 2003"
         self.languages = "Python, Javascript (Node.js, Angular && Vue), PHP"
         self.occupation = "Full-Stack developer && Software engineering student"
 ```
