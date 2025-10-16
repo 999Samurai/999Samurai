@@ -16,7 +16,7 @@ class samurai(readme):
 
     def __init__(self):
         self.full_name = "Diogo Fernandes"
-	self.username = "999Samurai"
+		self.username = "999Samurai"
         self.location = "Portugal"
         self.age = "22, Born 31 July 2003"
         self.languages = "Python, Javascript (Node.js, Angular && Vue), PHP"
